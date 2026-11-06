@@ -1,3 +1,12 @@
 {
-  "_base": "https://raw.githubusercontent.com/smaudd/strudel-samplepack-template/main/"
+  "_base": "https://raw.githubusercontent.com/edith2703/samples/gurlcode/",
+  "chestnuts": [
+    "chestnuts/chestnuts0.wav",
+    "chestnuts/chestnuts1.wav",
+    "chestnuts/chestnuts2.wav",
+    "chestnuts/chestnuts3.wav",
+    "chestnuts/chestnuts4.wav",
+    "chestnuts/chestnuts5.wav",
+    "chestnuts/chestnuts6.wav"
+  ]
 }
